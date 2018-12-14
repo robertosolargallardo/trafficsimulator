@@ -2,6 +2,7 @@
 #define __STREET__HH__
 #include <vector>
 #include <iostream>
+#include <algorithm>
 #include <stdlib.h>
 
 class street
